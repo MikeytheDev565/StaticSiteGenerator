@@ -1,0 +1,2 @@
+# StaticSiteGenerator
+boot.Dev project
